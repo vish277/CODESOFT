@@ -1,6 +1,7 @@
 # task1_todo.py
 todo_list = []
 
+
 while True:
     print("\n--- TO-DO LIST ---")
     print("1. Add Task\n2. View Tasks\n3. Remove Task\n4. Exit")
